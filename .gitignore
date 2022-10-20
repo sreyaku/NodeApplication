@@ -1,0 +1,12 @@
+# Ignore package-lock-json
+package-lock.json
+
+# Ignore node packages
+node_modules
+
+# Ignore environment variables
+.env
+
+# Ignore Public and views
+Public
+views
